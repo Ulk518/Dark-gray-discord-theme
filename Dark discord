@@ -1,4 +1,4 @@
-{
+خ{
   "name": "𐌌 dark dark ultra",
   "description": "Ultra dark gray gradients with white text and dino wallpaper",
   "version": "1",
@@ -32,7 +32,7 @@
     "BACKGROUND_MODIFIER_HOVER": ["#171719"],
     "BACKGROUND_MODIFIER_SELECTED": ["#171719"],
     "BACKGROUND_PRIMARY": ["#0F0F11"],
-    "BACKGROUND_SECONDARY": ["#171719"],
+    "BACKGROUND_SECONDARY": ["#171719"]
     "BACKGROUND_SECONDARY_ALT": ["#1F1F22"],
     "BACKGROUND_TERTIARY": ["#1F1F22"],
     "BG_BASE_PRIMARY": ["#0F0F11"],
@@ -106,15 +106,15 @@
     "PLUM_15": "#171719",
     "PLUM_16": "#1F1F22",
     "PLUM_17": "#666666",
-    "PLUM_18": "#FF0000",
+    "PLUM_18": "#131516",
     "PLUM_19": "#131516",
     "PLUM_20": "#131516",
-    "PLUM_22": "#FFFFFF",
+    "PLUM_22": "#131516",
     "PLUM_24": "#131516"
   },
   "background": {
     "blur": 2.0,
-    "url": "https://pomf2.lain.la/f/ci7gbfra.jpg",
+    "url": "https://pomf2.lain.la/f/zcb4qkw6.jpg",
     "OPACITY": 0
   },
   "plus": {
