@@ -75,11 +75,7 @@
     "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_SECONDARY": ["#FFFFFF"],
     "BG_MOD_FAINT": ["#171719"],
-    "KEYBOARD": ["#1F1F22"],
-
-    "PROFILE_BODY_TEXT_COLOR": ["#FFFFFF"],
-    "PROFILE_NOTE_TEXT_COLOR": ["#FFFFFF"],
-    "PROFILE_SUBTEXT": ["#FFFFFF"]
+    "KEYBOARD": ["#1F1F22"]
   },
   "rawColors": {
     "PRIMARY_200": "#272729",
@@ -90,14 +86,14 @@
     "PRIMARY_660": "#1F1F22",
     "PRIMARY_700": "#272729",
     "PRIMARY_800": "#303033",
-    "BRAND_260": "#272729",
-    "BRAND_360": "#1F1F22",
-    "BRAND_500": "#0F0F11",
-    "BRAND_560": "#171719",
+    "BRAND_260": "#00FF00",
+    "BRAND_360": "#FFFF00",
+    "BRAND_500": "#FF6600",
+    "BRAND_560": "#FF00FF",
     "RED_400": "#BF0A07",
     "RED_430": "#BF0A07",
-    "GREEN_360": "#272729",
-    "GREEN_430": "#FF6600",
+    "GREEN_360": "#0FC41E",
+    "GREEN_430": "#0FC41E",
     "WHITE_500": "#FFFFFF",
     "BLUE_345": "#FFFF00",
     "PLUM_1": "#CCFF00",
