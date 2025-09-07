@@ -75,7 +75,11 @@
     "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_SECONDARY": ["#FFFFFF"],
     "BG_MOD_FAINT": ["#171719"],
-    "KEYBOARD": ["#1F1F22"]
+    "KEYBOARD": ["#1F1F22"],
+
+    "PROFILE_BODY_TEXT_COLOR": ["#FFFFFF"],
+    "PROFILE_NOTE_TEXT_COLOR": ["#FFFFFF"],
+    "PROFILE_SUBTEXT": ["#FFFFFF"]
   },
   "rawColors": {
     "PRIMARY_200": "#272729",
