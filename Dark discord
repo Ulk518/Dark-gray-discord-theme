@@ -78,10 +78,10 @@
     "KEYBOARD": ["#1F1F22"]
   },
   "rawColors": {
-    "PRIMARY_200": "#272729",
-    "PRIMARY_230": "#303033",
+    "PRIMARY_200": "#FF0000",
+    "PRIMARY_230": "#9900FF",
     "PRIMARY_300": "#AA1919",
-    "PRIMARY_500": "#FFFF00",
+    "PRIMARY_500": "#FFFFFF",
     "PRIMARY_600": "#00FF00",
     "PRIMARY_660": "#111314",
     "PRIMARY_700": "#191B1D",
@@ -96,7 +96,7 @@
     "GREEN_430": "#0FC41E",
     "WHITE_500": "#FFFFFF",
     "BLUE_345": "#FFFFFF",
-    "PLUM_1": "#CCFF00",
+    "PLUM_1": "#FFFFFF",
     "PLUM_3": "#00FF00",
     "PLUM_6": "#FFFFFF",
     "PLUM_9": "#111314",
