@@ -71,7 +71,7 @@
     "POLLS_VICTOR_FILL": ["#1F1F22"],
     "TEXT_LINK": ["#189BF2"],
     "TEXT_MUTED": ["#FFFFFF"],
-    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#F2F2F2"],
     "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_SECONDARY": ["#FFFFFF"],
     "BG_MOD_FAINT": ["#0C0E0F"],
