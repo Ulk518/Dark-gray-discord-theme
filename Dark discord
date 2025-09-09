@@ -73,7 +73,7 @@
     "TEXT_MUTED": ["#B7B7B7"],
     "TEXT_NORMAL": ["#FFFFFF"],
     "TEXT_PRIMARY": ["#F2F2F2"],
-    "TEXT_SECONDARY": ["#FFFFFF"],
+    "TEXT_SECONDARY": ["#0C0E0F"],
     "BG_MOD_FAINT": ["#0C0E0F"],
     "KEYBOARD": ["#39FF14"]
   },
