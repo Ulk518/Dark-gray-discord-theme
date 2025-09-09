@@ -78,12 +78,12 @@
     "KEYBOARD": ["#39FF14"]
   },
   "rawColors": {
-    "PRIMARY_200": "#C1C1C1",
+    "PRIMARY_200": "#FF00FF",
     "PRIMARY_230": "#FFFFFF",
     "PRIMARY_300": "#AA1919",
-    "PRIMARY_500": "#BABABA",
+    "PRIMARY_500": "#FF6600",
     "PRIMARY_600": "#FFFFFF",
-    "PRIMARY_660": "#C1C1C1",
+    "PRIMARY_660": "#FFFF00",
     "PRIMARY_700": "#191B1D",
     "PRIMARY_800": "#131516",
     "BRAND_260": "#FF00FF",
