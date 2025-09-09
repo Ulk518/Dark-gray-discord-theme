@@ -71,11 +71,11 @@
     "POLLS_VICTOR_FILL": ["#1F1F22"],
     "TEXT_LINK": ["#189BF2"],
     "TEXT_MUTED": ["#FFFFFF"],
-    "TEXT_NORMAL": ["#FFFFFF"],
-    "TEXT_PRIMARY": ["#FFFFFF"],
-    "TEXT_SECONDARY": ["#FFFFFF"],
-    "BG_MOD_FAINT": ["#171719"],
-    "KEYBOARD": ["#1F1F22"]
+    "TEXT_NORMAL": ["#FF6600"],
+    "TEXT_PRIMARY": ["#FFFF00"],
+    "TEXT_SECONDARY": ["#1E90FF"],
+    "BG_MOD_FAINT": ["#FF00FF"],
+    "KEYBOARD": ["#39FF14"]
   },
   "rawColors": {
     "PRIMARY_200": "#0E0F11",
